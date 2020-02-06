@@ -176,10 +176,6 @@ Signs and Symptoms Survey
             </button>
           </div>
         </div>
-		<?php
-		//if 
-		?>
-		
       </li>
     </ul>
   </div>
