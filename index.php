@@ -168,9 +168,9 @@ Signs and Symptoms Survey
           </div>
         </div>
       </li>
-      <li class="form-line" data-type="control_button" id="id_14">
+      <li class="form-line" data-type="control_button"  id="id_14">
         <div id="cid_14" class="form-input-wide">
-          <div style="text-align:center" class="form-buttons-wrapper ">
+          <div style="text-align:left" class="form-buttons-wrapper ">
             <button id="form_submit" type="submit" class="form-submit-button" data-component="button" data-content="">
               Submit
             </button>
